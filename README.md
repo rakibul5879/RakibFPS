@@ -3,7 +3,7 @@
 
 # Download
 download thos modpack on Modrinth:
-https://modrinth.com/modpack/rakibfps/settings/description
+https://modrinth.com/modpack/rakibfps
 
 RakibFPS is a lightweight, performance-first modpack designed to provide a smoother, faster, and more responsive Minecraft experience. Built specifically for the **Fabric** loader, it acts as a modern, open-source alternative to OptiFine.
 
